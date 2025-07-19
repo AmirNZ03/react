@@ -25,18 +25,11 @@
   
     position: absolute;
 }
-/* .ici{
-    color: var(--pd);
-    position: absolute;
-    padding-top: 3rem;
-    /* padding-top: 1rem; */
 
-/* } */ */
 .hami{
     color: var(--pd);
     margin-left: 7rem;
-    /* margin-bottom: 4rem !important;
-    top: -2rem; */
+ 
     margin-top: -7rem !important;
     position: absolute;
 }
@@ -52,7 +45,6 @@
     margin-top: -1rem;
 }
 .xas{
-    /* padding-left: 4rem; */
     font-size: 20px;
     margin-top: -1rem;
     padding-left: 1rem;
@@ -78,16 +70,13 @@
     padding-left: 59rem;
     position: absolute;
    
-    /* padding-left: 20rem; */
 }
 .nac{
     border-radius: 100%;
-/* margin-bottom: 1rem; */
 width: 3rem;
 height: 3rem;
 margin-left: 10rem;
 margin-top: -3rem;
-/* margin-top: -4rem; */
 }
 #dps{
     position: relative;

@@ -95,7 +95,6 @@
     display: flex;
     padding-left: 3rem;
     color: #AAB3D9;
-    /* padding-top: -1.5rem; */
     padding-top: 0.5rem;
   
 }
@@ -116,9 +115,7 @@
 .saa{
     color: #AAB3D9;
     margin-top: 2.5rem;
-    /* margin-left: 3rem; */
    padding-left: 2rem !important;
-    /* position: absolute; */
 position: absolute;
 }
 .nj{

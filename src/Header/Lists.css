@@ -8,15 +8,13 @@
 
     background-color: var(--oac);
     width: 14rem;
-    /* height: 20rem; */
   height: 20rem !important;
     z-index: 2;
     border-radius: 0.5rem;
     transition: 0.4s;
     top: 4rem;
     left: 10rem;
-    /* height: 1vh; */
-    /* position: fixed; */
+   
     position: fixed;
 
 }
@@ -91,6 +89,3 @@
     padding-bottom: 0.5rem;
     border-bottom: 0.5px solid black;
 }
-/* #qp{
-
-} */

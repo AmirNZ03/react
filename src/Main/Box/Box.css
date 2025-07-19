@@ -22,7 +22,6 @@
 #ami :hover{
     transform: scaleX(1.5);
     
-    /* transform: scaleY(1.5); */
     transition: 0.5s;
 }
 #amic{
@@ -35,7 +34,6 @@
 #amic :hover{
     transform: scaleX(1.5);
     
-    /* transform: scaleY(1.5); */
     transition: 0.5s;
 }
 #amicv{
@@ -48,16 +46,13 @@
 #amicv :hover{
     transform: scaleX(1.5);
     
-    /* transform: scaleY(1.5); */
     transition: 0.5s;
 }
 .saman{
     display: flex;
    
 }
-/* .vmx{
-    padding-right: 4rem !important;
-} */
+
 .mesui{
     display: flex;
     flex-direction: column;
